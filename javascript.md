@@ -17,6 +17,8 @@ cd <app-name>
 yarn start
 ```
 
+For the typescript fork, use `create-react-app my-app --scripts-version=react-scripts-ts`.
+
 Then open http://localhost:3000/ to see your app.
 
 ### Ejecting from the transitive dependencies
